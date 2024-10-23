@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BelajarRecyclerView</string>
+
+<!--<string-array name="data_name">-->
+<!--    <item>Alpha</item>-->
+<!--    <item>Bravo</item>-->
+<!--    <item>Charlie</item>-->
+<!--    <item>Delta</item>-->
+<!--    <item>Echo</item>-->
+<!--    <item>Foxtrot</item>-->
+<!--    <item>Golf</item>-->
+<!--    <item>Hotel</item>-->
+<!--    <item>India</item>-->
+<!--    <item>Juliet</item>-->
+<!--</string-array>-->
+</resources>

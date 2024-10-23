@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">uiComponent</string>
+    <string name="nama">Nama</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="coding">Coding</string>
+    <string name="gaming">Gaming</string>
+    <string name="baca_buku">Baca Buku</string>
+    <string name="todo">TODO</string>
+</resources>

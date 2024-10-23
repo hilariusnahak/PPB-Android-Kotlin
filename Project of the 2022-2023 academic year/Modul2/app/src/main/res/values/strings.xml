@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modul-2</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="login">Login</string>
+    <string name="halaman_kedua">Halaman Kedua</string>
+</resources>
