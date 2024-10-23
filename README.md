@@ -56,11 +56,6 @@ Sebelum memulai, pastikan Anda memiliki tools berikut:
 - **Pokok Pembahasan**:
   - Pengenalan dan implementasi konsep menu android.
 
-## How to Run
-1. Clone repository ini:
-   ```bash
-   git clone # Android Kotlin Project - Pratikum Pemrograman Perangkat Bergerak
-
 ## Overview
 Proyek ini merupakan bagian dari Pratikum Pemrograman Perangkat Bergerak (Pertemuan 1-8), dengan pendekatan **Project Based Learning**. Setiap pertemuan mencakup capaian pembelajaran dan pokok pembahasan untuk memahami pengembangan aplikasi Android menggunakan Kotlin. Mata kuliah ini terdiri dari **Praktikum** dan **Teori**, yang didukung oleh berbagai metode pembelajaran untuk mencapai capaian pembelajaran semester.
 
