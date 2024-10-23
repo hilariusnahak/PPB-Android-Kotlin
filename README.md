@@ -1,7 +1,7 @@
 # Android Kotlin Project - Pemrograman Perangkat Bergerak
 
 ## Overview
-Proyek ini merupakan bagian dari Pratikum Pemrograman Perangkat Bergerak (Pertemuan 1-8), dengan pendekatan **Project Based Learning**. Setiap pertemuan mencakup capaian pembelajaran dan pokok pembahasan untuk memahami pengembangan aplikasi Android menggunakan Kotlin. Mata kuliah ini terdiri dari **Praktikum** dan **Teori**, yang didukung oleh berbagai metode pembelajaran untuk mencapai capaian pembelajaran semester.
+Proyek ini merupakan bagian dari Pemrograman Perangkat Bergerak (Pertemuan 1-8), dengan pendekatan **Project Based Learning**. Setiap pertemuan mencakup capaian pembelajaran dan pokok pembahasan untuk memahami pengembangan aplikasi Android menggunakan Kotlin. Mata kuliah ini terdiri dari **Praktikum** dan **Teori**, yang didukung oleh berbagai metode pembelajaran untuk mencapai capaian pembelajaran semester.
 
 ## Semester Learning Outcomes
 Capaian Pembelajaran Semester dalam mata kuliah ini dicapai melalui berbagai metode pembelajaran sebagai berikut:
@@ -57,7 +57,7 @@ Sebelum memulai, pastikan Anda memiliki tools berikut:
   - Pengenalan dan implementasi konsep menu android.
 
 ## Overview
-Proyek ini merupakan bagian dari Pratikum Pemrograman Perangkat Bergerak (Pertemuan 1-8), dengan pendekatan **Project Based Learning**. Setiap pertemuan mencakup capaian pembelajaran dan pokok pembahasan untuk memahami pengembangan aplikasi Android menggunakan Kotlin. Mata kuliah ini terdiri dari **Praktikum** dan **Teori**, yang didukung oleh berbagai metode pembelajaran untuk mencapai capaian pembelajaran semester.
+Proyek ini merupakan bagian dari Pemrograman Perangkat Bergerak (Pertemuan 1-8), dengan pendekatan **Project Based Learning**. Setiap pertemuan mencakup capaian pembelajaran dan pokok pembahasan untuk memahami pengembangan aplikasi Android menggunakan Kotlin. Mata kuliah ini terdiri dari **Praktikum** dan **Teori**, yang didukung oleh berbagai metode pembelajaran untuk mencapai capaian pembelajaran semester.
 
 ## Semester Learning Outcomes
 Capaian Pembelajaran Semester dalam mata kuliah ini dicapai melalui berbagai metode pembelajaran sebagai berikut:
