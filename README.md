@@ -122,7 +122,7 @@ Sebelum memulai, pastikan Anda memiliki tools berikut:
 4. Jalankan aplikasi di emulator atau perangkat fisik dengan menekan tombol Run di Android Studio.
 
 ## Contributors
-[x] Nama Mahasiswa: [Nama Anda]
-[x] NIM: [NIM Anda]
+[x] Nama Mahasiswa: Nama Anda
+[x] NIM: NIM Anda
 
 Checklist pada metode pembelajaran telah ditambahkan. Jika ada yang ingin disesuaikan lebih lanjut, silakan beri tahu!
